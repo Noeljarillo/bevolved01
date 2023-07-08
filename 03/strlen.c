@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdio.h>
 
-int	strlen(char *s)
+int	strleno(char *s)
 {
 	int i;
 
